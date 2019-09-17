@@ -3,5 +3,5 @@
 
 This repository contains the scripts and data for my first interactive web map.
 
-You can view my map <[HERE](http://https://github.com/Heijn030/Webmap)>
+You can view my map <[HERE](https://github.com/Heijn030/Webmap)>
 ~~~
